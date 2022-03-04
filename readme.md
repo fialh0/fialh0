@@ -1,4 +1,4 @@
-# Vamos 🚀
+# Vamos  🚀
 
 | GitHub stats | Wakatime stats |
 |--- |--- |
